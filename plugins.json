@@ -1,10 +1,11 @@
 [
     {
-      "internalName": "bot-client",
+      "internalName": "BotClient",
       "hash": "429a0e34ee47303daba0c3ad20219dac1098d1a4b60e6ce3413d7183c31cf85f",
       "size": 22252,
       "plugins": [
-        "ca.arnah.runelite.BotClientPlugin"
+        "net.runelite.client.plugins.botclient.BotClientPlugin",
+        "ca.arnah.runelite.HijackCustomizePlugin"
       ],
       "displayName": "[X] Bot Client",
       "description": "Haha lmao",
